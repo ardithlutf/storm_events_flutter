@@ -3,6 +3,7 @@
 Project Link-Match Semester 6 (TPPL, BigData, Cloud Computing)
 
 ## Getting Started / Notes
+- Dibuat dengan bahasa pemrograman Dart dengan framework Flutter
 
 - Implementasi Design Pattern menggunakan metode Builder dan Proxy
 
