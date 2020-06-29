@@ -1,0 +1,15 @@
+1	New York
+2	Los Angeles
+3	Chicago
+4	Houston
+5	Philadelphia
+6	Phoenix
+7	San Antonio
+8	San Diego
+9	Dallas
+10	San Jose
+11	Austin
+12	Jacksonville
+13	Indianapolis
+14	San Francisco
+15	Columbus

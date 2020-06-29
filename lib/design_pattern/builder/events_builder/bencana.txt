@@ -1,0 +1,9 @@
+1   Tornado
+2   Lightning
+3   Tsunami
+4   Flood
+5   Blizzard
+6   Coastal Flood
+7   Strong Wind
+8   Debris Flow
+9   Dust Storm

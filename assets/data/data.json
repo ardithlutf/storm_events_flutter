@@ -1,0 +1,28 @@
+[
+  {
+    "id": "creational",
+    "title": "Creational: Builder",
+    "color": "0xFFF3D250",
+    "fiturs": [
+      {
+        "id": "history",
+        "title": "Riwayat Bencana",
+        "description": "Melihat kota apa saja yang pernah dilanda bencana selama 1 bulan kebelakang dan bencana apa yang sering muncul di kota tersebut",
+        "route": "/history"
+      }
+    ]
+  },
+  {
+    "id": "structural",
+    "title": "Structural: Proxy",
+    "color": "0xFF90CCF4",
+    "fiturs": [
+      {
+        "id": "city",
+        "title": "Daftar User",
+        "description": "Melihat detail user",
+        "route": "/city"
+      }
+    ]
+  }
+]
