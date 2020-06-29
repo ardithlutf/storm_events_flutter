@@ -9,7 +9,7 @@ Project Link-Match Semester 6 (TPPL, BigData, Cloud Computing)
 - Terdapat 2 fitur yaitu melihat events (builder) dan melihat user (proxy)
 
 - Source untuk implementasi Builder:
-    /lib/design_pattern/builder/
+    https://github.com/ardithlutf/storm_events_flutter/tree/master/lib/design_pattern/builder
 
 - Source untuk implementasi Builder:
-    /lib/design_pattern/builder/
+    https://github.com/ardithlutf/storm_events_flutter/tree/master/lib/design_pattern/proxy
